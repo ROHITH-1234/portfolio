@@ -19,10 +19,8 @@ function Content()
  concepts and a focus on delivering effective solutions. I am driven to contribute to organizational goals and further enhance my
  technical expertise
             </p>
- <Github/>
-            {/* <div className="flex justify-center">
-            <div className='flex1'><Github/></div> */}
-            {/* </div> */}
+ <Github className="inline-block items-center"/>
+    
          </div>
          </div>
          <Projects/>
