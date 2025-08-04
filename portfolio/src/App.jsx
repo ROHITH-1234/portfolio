@@ -4,11 +4,12 @@ import Footer from "./components/Footer";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import './App.css'
+import Particles from "./components/icons/Particles";
 function App()
 {
   return(
     <>
-      <Header/>
+      <Header/>   
       <Content/>
       <Contact/>
       <Footer/>
